@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111685448424",
+    "project_id": "register-book-3111f",
+    "storage_bucket": "register-book-3111f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111685448424:android:71b285339a6f46b6738f5d",
+        "android_client_info": {
+          "package_name": "com.example.registerbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111685448424-6b882808k5vmellq5dmiunoe0mh0telv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUll9Aa81KadruLnzNF2n-1H7yLJ55m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111685448424-6b882808k5vmellq5dmiunoe0mh0telv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

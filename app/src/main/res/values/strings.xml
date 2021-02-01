@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Register Book</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="your_awesome_app">Your Awesome App</string>
+    <string name="theosuccess">Theosuccess</string>
+    <string name="user_details_form">User Details Form</string>
+</resources>
